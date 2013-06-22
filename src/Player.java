@@ -1,5 +1,5 @@
 
-public class Player {
+public class Player implements Comparable<Player>{
 	public int goals;
 	public String teamName;
 	public String name;
@@ -12,5 +12,5 @@ public class Player {
 	}
 	public int compareTo(Player p2) {		 
 		return p2.goals-this.goals; 
-	}	
+	}
 }
