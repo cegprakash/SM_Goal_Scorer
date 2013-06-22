@@ -1,4 +1,4 @@
 SM_Goal_Scorer
 ==============
 
-To find the highest goal scorer in Striker Manager - The largest online football manager game
+Removed info from Readme to avoid google to show this repo in it's result
